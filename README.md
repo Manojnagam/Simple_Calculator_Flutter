@@ -5,18 +5,28 @@ This Flutter application is a simple calculator designed for operations involvin
 
 
 Features
+
 ->Numeric Buttons: Buttons for digits 0-9 to input numbers.
+
 ->Operator Buttons: Buttons for basic arithmetic operators (+, -, *, /).
+
 ->Equal Button: Calculates and displays the result of the entered expression.
+
 ->Clear Button (AC): Clears the input and resets the calculator.
+
 ->Error Handling: Handles division by zero and displays "Error" in such cases.
 
 
 Usage
+
 ->Enter numbers using the numeric buttons.
+
 ->Use operator buttons to perform arithmetic operations.
+
 ->Press the equal button to calculate and display the result.
+
 ->Press the clear button to reset the input and start a new calculation.
+
 ->Run the app on an emulator or physical device.
 
 
