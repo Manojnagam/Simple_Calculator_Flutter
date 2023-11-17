@@ -1,48 +1,16 @@
-# Simple_Calculator_Flutter
+# simple_calculator
 
-Simple Calculator app using Flutter
+A new Flutter project.
 
+## Getting Started
 
-   This Flutter application is a simple calculator designed for operations involving two numbers. Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator provides a user-friendly interface with numeric buttons, operator buttons, and a clear button to reset the input.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-Features
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-->Numeric Buttons: Buttons for digits 0-9 to input numbers.
-
-->Operator Buttons: Buttons for basic arithmetic operators (+, -, *, /).
-
-->Equal Button: Calculates and displays the result of the entered expression.
-
-->Clear Button (AC): Clears the input and resets the calculator.
-
-->Error Handling: Handles division by zero and displays "Error" in such cases.
-
-
-
-Usage
-
-->Enter numbers using the numeric buttons.
-
-->Use operator buttons to perform arithmetic operations.
-
-->Press the equal button to calculate and display the result.
-
-->Press the clear button to reset the input and start a new calculation.
-
-
-->Open the project in your preferred Flutter IDE (e.g., Visual Studio Code, Android Studio).
-
-
-->Run the app on an emulator or physical device.
-
-
-Requirements
-
-Flutter SDK: https://docs.flutter.dev/get-started/install
-
-Dart SDK: https://dart.dev/get-dart
-
-Note: This calculator app is specifically designed for operations involving two numbers.
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
