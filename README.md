@@ -27,7 +27,9 @@ Open the project in your preferred Flutter IDE (e.g., Visual Studio Code, Androi
 Run the app on an emulator or physical device.
 
 Requirements
+
 Flutter SDK: https://docs.flutter.dev/get-started/install
+
 Dart SDK: https://dart.dev/get-dart
 
 Note: This calculator app is specifically designed for operations involving two numbers.
