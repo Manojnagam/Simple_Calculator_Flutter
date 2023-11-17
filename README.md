@@ -19,6 +19,7 @@ Clear Button (AC): Clears the input and resets the calculator.
 Error Handling: Handles division by zero and displays "Error" in such cases.
 
 
+
 Usage
 
 Enter numbers using the numeric buttons.
@@ -29,12 +30,7 @@ Press the equal button to calculate and display the result.
 
 Press the clear button to reset the input and start a new calculation.
 
-Getting Started
-Clone the repository:
 
-
-bash
-git clone 
 Open the project in your preferred Flutter IDE (e.g., Visual Studio Code, Android Studio).
 
 
