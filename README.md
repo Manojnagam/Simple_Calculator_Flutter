@@ -38,3 +38,10 @@ Dart SDK: https://dart.dev/get-dart
 
 Note: This calculator app is specifically designed for operations involving two numbers.
 
+![1](https://github.com/Manojnagam/Simple_Calculator_Flutter/assets/77600103/62d92e07-f308-485a-a0e6-11bbc2a4ddf7)
+
+![2](https://github.com/Manojnagam/Simple_Calculator_Flutter/assets/77600103/406b1305-31c4-4e8b-a124-8a664a59854f)
+
+![3](https://github.com/Manojnagam/Simple_Calculator_Flutter/assets/77600103/3f0dbb57-714d-4a9a-a0ff-50c8e064df22)
+
+![4](https://github.com/Manojnagam/Simple_Calculator_Flutter/assets/77600103/9ab486b1-9214-436d-8003-d2cbfe316eb0)
